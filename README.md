@@ -1,16 +1,32 @@
-## Hi there 👋
+I'm currently completing a Business Intelligence Analysis course and using this repository to showcase my learning progress, projects, and hands-on skills in data analysis, visualization, and business reporting.
 
-<!--
-**Regina-Sokolow/Regina-Sokolow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Goals:
+Apply BI tools and techniques to real-world scenarios
 
-Here are some ideas to get you started:
+Build a portfolio of data-driven projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Collaborate on outsourcing and freelance BI projects
+
+💡 What You'll Find Here:
+Data exploration and visualization using Power BI, Tableau, and Excel
+
+SQL scripts for data querying and transformation
+
+Case studies and mini-projects from the BI course
+
+Dashboards and reports focused on business KPIs and insights
+
+🤝 Looking to Collaborate:
+If you're working on BI, data analysis, or outsourcing projects and need support with data modeling, dashboard design, or storytelling with data — I'm open to contributing and learning with you.
+
+🛠 Tools & Technologies:
+Power BI | Tableau
+
+SQL | Excel
+
+Python (Pandas, Matplotlib)
+
+Business analysis frameworks and reporting
+
+
 -->
