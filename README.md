@@ -1,4 +1,4 @@
-I'm currently completing a Business Intelligence Analysis course and using this repository to showcase my learning progress, projects, and hands-on skills in data analysis, visualization, and business reporting.
+I'm recently completed a Business Intelligence Analysis course and using this repository to showcase what I learned, projects I completed, and hands-on skills in data analysis, visualization, and business reporting.
 
 🚀 Goals:
 Apply BI tools and techniques to real-world scenarios
